@@ -5,6 +5,10 @@ dist/
 # App build output
 build/
 
+# Cribl pack layout for Git install (generated; committed only onto release tags by CI)
+/static/
+/default/
+
 # Compiled Java class files
 *.class
 

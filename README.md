@@ -1,4 +1,4 @@
-# cc-whoami
+# WHOAMI App
 
 A Cribl app that shows the signed-in user everything that defines their access in Cribl:
 
@@ -6,6 +6,23 @@ A Cribl app that shows the signed-in user everything that defines their access i
 - **Roles** — the roles currently granting you access, enriched with each role's title, description, tags, and policy count.
 - **Teams** — the teams you belong to and the roles those teams grant.
 - **Policies** — your effective authorization policy: every object you can act on and which actions are allowed, with a quick filter.
+
+## Install in Cribl
+
+In the Cribl UI, go to **Apps -> Install App** and use one of the following.
+
+### Import from File
+
+1. Open the repo's GitHub Releases and download `cc-whoami-X.Y.Z.tgz` for the version you want.
+2. Choose **Import from File** and upload the `.tgz`.
+
+### Import from Git
+
+1. Choose **Import from Git**.
+2. Set **URL** to `https://github.com/gcribl/cc-whoami.git`.
+3. Set **Branch or tag** to `latest` (recommended — always the newest release) or a specific tag (e.g. `v1.0.3`). Leaving it blank causes the import to fail.
+
+Each release tag carries the built app layout (`static/`, `default/`, `package.json`) at the repo root, so a clone at the tag is directly installable.
 
 ## How it works
 
