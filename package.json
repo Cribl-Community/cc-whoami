@@ -1,7 +1,7 @@
 {
   "name": "cc-whoami",
   "private": true,
-  "version": "1.0.2",
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -32,5 +32,9 @@
   "cribl": {
     "type": "app",
     "createAppScriptVersion": "0.3.0"
+  },
+  "author": "gcribl",
+  "tags": {
+    "product": []
   }
 }
