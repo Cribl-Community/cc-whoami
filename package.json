@@ -36,6 +36,6 @@
   },
   "author": "gcribl",
   "tags": {
-    "product": []
+    "product": ["stream", "search", "edge", "lake" ]
   }
 }
