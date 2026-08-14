@@ -1,7 +1,7 @@
 {
   "name": "cc-whoami",
   "private": true,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -36,6 +36,6 @@
   },
   "author": "gcribl",
   "tags": {
-    "product": ["stream", "search", "edge", "lake" ]
+    "product": []
   }
 }
