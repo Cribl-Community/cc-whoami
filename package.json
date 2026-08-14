@@ -28,7 +28,8 @@
     "typescript": "~6.0.2",
     "vite": "^8.1.1"
   },
-  "displayName": "cc-whoami",
+  "displayName": "Cribl Identity Checker",
+  "description": "Display an app user's identity details.",
   "cribl": {
     "type": "app",
     "createAppScriptVersion": "0.3.0"
