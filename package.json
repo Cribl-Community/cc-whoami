@@ -1,7 +1,7 @@
 {
   "name": "cc-whoami",
   "private": true,
-  "version": "1.0.3",
+  "version": "1.0.5",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -34,7 +34,7 @@
     "type": "app",
     "createAppScriptVersion": "0.3.0"
   },
-  "author": "gmola@cribl.io",
+  "author": "Giovanni Mola - gmola@cribl.io",
   "tags": {
     "product": [
       "stream",
